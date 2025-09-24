@@ -22,6 +22,8 @@ text-transform: uppercase;
 color: #4d5ae5;
 }
 
+/*header*/
+
 .header-logo .logo-part {
     color: #2e2f42;
 }
@@ -63,6 +65,8 @@ color: #434455;
 .page-footer {
     background-color:#2e2f42;
 }
+ 
+/*section 1*/
 
 .section-hero {
 background-color: #2e2f42;
@@ -79,12 +83,10 @@ color: #fff;
 
 .hero-button {
 background-color: #4d5ae5;
-}
-
-.button-text {
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
 }
+
