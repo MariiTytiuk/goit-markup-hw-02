@@ -95,3 +95,21 @@ cursor: pointer
 .hero-button:focus {
     background-color: #404BBF;
 }
+
+/*section 2*/
+
+.title {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.title-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
